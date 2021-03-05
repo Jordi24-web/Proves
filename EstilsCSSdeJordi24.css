@@ -1,0 +1,6 @@
+tr:first-child{
+background-color: red;
+}
+tr:last-child{
+background-color: yellow;
+}
